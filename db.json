@@ -1,0 +1,20 @@
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "pasien": [
+    {"no_rm": "0000001", "nama": "Tontowi Prasetyo", "tanggal_lahir": "25/04/1997", "poli": "Poliklinik"},
+    {"no_rm": "0000002", "nama": "Syifa Nadia", "tanggal_lahir": "06/06/1995", "poli": "Rawat Jalan"},
+    {"no_rm": "0000003", "nama": "Fauzi Sampurno", "tanggal_lahir": "11/02/1995", "poli": "IGD"},
+    {"no_rm": "0000004", "nama": "Alifah Surya", "tanggal_lahir": "16/01/1995", "poli": "Poliklinik"}
+  ]
+}
